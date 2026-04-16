@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "repo": "TTS",
+  "repo_version": null,
+  "archetype": "fork",
+  "generated_at": "2026-04-16T15:15:44.189954+00:00",
+  "stats": {
+    "node_count": 7,
+    "edge_count": 0
+  },
+  "nodes": [
+    {
+      "id": "document:readme",
+      "type": "document",
+      "name": "README",
+      "file": "README.md"
+    },
+    {
+      "id": "component:TTS",
+      "type": "component",
+      "name": "TTS",
+      "file": "TTS",
+      "description": "213 files"
+    },
+    {
+      "id": "component:docs",
+      "type": "component",
+      "name": "docs",
+      "file": "docs",
+      "description": "31 files"
+    },
+    {
+      "id": "component:images",
+      "type": "component",
+      "name": "images",
+      "file": "images",
+      "description": "7 files"
+    },
+    {
+      "id": "component:notebooks",
+      "type": "component",
+      "name": "notebooks",
+      "file": "notebooks",
+      "description": "12 files"
+    },
+    {
+      "id": "component:recipes",
+      "type": "component",
+      "name": "recipes",
+      "file": "recipes",
+      "description": "45 files"
+    },
+    {
+      "id": "component:tests",
+      "type": "component",
+      "name": "tests",
+      "file": "tests",
+      "description": "165 files"
+    }
+  ],
+  "edges": [],
+  "subsystems": []
+}
